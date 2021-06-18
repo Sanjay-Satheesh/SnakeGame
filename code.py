@@ -1,5 +1,4 @@
 import pygame   #importing needed libraries
-import time
 import random
 
 
